@@ -1,0 +1,35 @@
+MONTH: 
+October
+---
+DATE: 
+8th, 
+---
+LAB_NUMBER: 
+6
+---
+OBJECTIVES:
+Objective content goes here.
+ANOTHER OBJECTIVE LINE HERE.
+---
+
+PROCEDURES:
+Procedure content goes here.
+ANOTHER PROCEDURE LINE HERE.
+--- 
+
+CIRCUITS:
+lpf.jpg, Low Pass Circuit 
+hpf.jpg, High Pass Circuit 
+---
+
+RESULTS:
+Textual description of some result.
+lowpassfilterScope.png, Low Pass Filter Scope
+Further discussion on the results.
+highpassfilterscope.png, High Pass Filter Scope
+---
+
+CONCLUSIONS:
+Conclusion content goes here.
+ANOTHER CONCLUSION LINE HERE.
+ 
